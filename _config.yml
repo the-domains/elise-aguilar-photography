@@ -1,0 +1,28 @@
+name: Elise Aguilar Photography
+favicon: null
+layout_spectrum: 0.31958388234488666
+typography_spectrum: 0.9055838491767645
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.7271067856345326
+  lightness: 0.4878942552022636
+  saturation: 0.31659291917458177
+  rhythmicContrast: 0.1733323319349438
+purpose: []
