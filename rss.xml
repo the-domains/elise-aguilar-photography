@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Elise Aguilar Photography]]></title>
+        <description><![CDATA[Elise Aguilar Photography]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 18 Jan 2016 16:16:16 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[FIRED UP BY THE THINGS THAT MATTER]]></title>
+            <description><![CDATA[<article><h1>FIRED UP BY THE THINGS THAT MATTER</h1><p>by Tess Puzon-Rivera</p></article>]]></description>
+            <link>undefinedfired-up-by-the-things-that-matter/index.html</link>
+            <guid isPermaLink="false">cd296ad3-ecc1-4e8e-a8f8-d2a6c17fb05c</guid>
+            <pubDate>Mon, 18 Jan 2016 16:16:16 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
