@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Elise Aguilar Photography]]></title>
-        <description><![CDATA[Elise Aguilar Photography]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[FIRED UP BY THE THINGS THAT MATTER]]></title>
+        <description><![CDATA[FIRED UP BY THE THINGS THAT MATTER]]></description>
+        <link>https://thegrid.ai/elise-aguilar-photography/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 18 Jan 2016 16:16:16 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 26 Apr 2016 07:32:11 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/elise-aguilar-photography/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[FIRED UP BY THE THINGS THAT MATTER]]></title>
-            <description><![CDATA[<article><h1>FIRED UP BY THE THINGS THAT MATTER</h1><p>by Tess Puzon-Rivera</p></article>]]></description>
-            <link>undefinedfired-up-by-the-things-that-matter/index.html</link>
+            <description><![CDATA[<p>One person’s trash is someone else’s treasure. This was how Elise Aguilar discovered the latent photographer in her. About 2 decades ago, while in college, Elise was introduced to her lifelong passion when a friend decided to upgrade his photo gadgets and give away his manual SLR, complete with fancy lenses and accessories, packed in a really nice bag. This friend’s refuse turned out to be one of the best gifts that Elise ever received in her lifetime. </p>]]></description>
+            <link>https://thegrid.ai/elise-aguilar-photography/fired-up-by-the-things-that-matter/index.html</link>
             <guid isPermaLink="false">cd296ad3-ecc1-4e8e-a8f8-d2a6c17fb05c</guid>
-            <pubDate>Mon, 18 Jan 2016 16:16:16 GMT</pubDate>
+            <pubDate>Tue, 26 Apr 2016 07:31:53 GMT</pubDate>
         </item>
     </channel>
 </rss>
