@@ -3,29 +3,25 @@ inFeed: true
 hasPage: true
 inNav: false
 inLanguage: null
-starred: false
 keywords: []
-description: 'One person’s trash is someone else’s treasure.  This was how Elise Aguilar discovered the latent photographer in her.  About 2 decades ago, while in college, Elise was introduced to her lifelong passion when a friend decided to upgrade his photo gadgets and give away his manual SLR, complete with fancy lenses and accessories, packed in a really nice bag.  This friend’s refuse turned out to be one of the best gifts that Elise ever received in her lifetime. '
-datePublished: '2016-01-18T16:16:16.788Z'
-dateModified: '2016-01-18T16:16:04.587Z'
-title: FIRED UP BY THE THINGS THAT MATTER
+description: 'One person’s trash is someone else’s treasure. This was how Elise Aguilar discovered the latent photographer in her. About 2 decades ago, while in college, Elise was introduced to her lifelong passion when a friend decided to upgrade his photo gadgets and give away his manual SLR, complete with fancy lenses and accessories, packed in a really nice bag. This friend’s refuse turned out to be one of the best gifts that Elise ever received in her lifetime. '
+datePublished: '2016-04-26T07:31:53.229Z'
+dateModified: '2016-04-26T07:00:33.238Z'
+title: ''
 author: []
+sourcePath: _posts/2016-01-18-fired-up-by-the-things-that-matter.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-01-18-fired-up-by-the-things-that-matter.md
-published: true
+starred: false
 url: fired-up-by-the-things-that-matter/index.html
 _type: Article
 
 ---
-null
-
-_by Tess Puzon-Rivera_
-
 One person's trash is someone else's treasure. This was how Elise Aguilar discovered the latent photographer in her. About 2 decades ago, while in college, Elise was introduced to her lifelong passion when a friend decided to upgrade his photo gadgets and give away his manual SLR, complete with fancy lenses and accessories, packed in a really nice bag. This friend's refuse turned out to be one of the best gifts that Elise ever received in her lifetime. 
 
 Being a busy college scholar back then, Elise studied the intricacies of photography by devouring on the contents of the manual whenever her time permitted. The application of what she learned through self-study was a sequence of trials and errors that painfully ate up a bulk of her allowance. It was after all the film era then, when one can't possibly progress in photography unless she invested on film and printing. The joy and satisfaction that Elise derived from learning photography the hard way was incomparable and well worth it because she discovered a hobby which she will undoubtedly enjoy long before she has outgrown her other interests. 
